@@ -115,7 +115,7 @@ global.mess = {
     wait: 'Tunggu Sebentar!',
     linkm: 'Dimana linknya?',
     error: 'Error!!',
-    endLimit: 'Limut Harian Anda Telah Kedaluwarsa, Limit Akan Direset Setiap 12 Jam',
+    endLimit: 'Limut Harian Anda Telah Habis, Limit Akan Direset Setiap 12 Jam',
     ban: 'Anda telah diblokir oleh Owner, jika Anda ingin diblokir, chat Owner.',
     nsfw: 'Fitur nsfw belum diaktifkan, silahkan Chat admin untuk Di Aktifkan!',
     banChat: 'Bot diblokir di grup ini, harap hubungi Owner untuk membatalkan pemblokiran'
