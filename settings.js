@@ -69,8 +69,10 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🥶" //ur theme emoji
-global.packname = "GojoBot Stickers\n\n\n\n\n\n\n\n\n\n\n🥶🥶🥶 " //ur sticker watermark packname
-global.author = "GojoSatoru" //ur sticker watermark author
+global.packname = "GOJOBOT🥶🥶🥶
+GOJOSATORU " //ur sticker watermark packname
+global.author = "DIBUAT OLEH ~
+CREATOR BY" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -114,9 +116,9 @@ global.mess = {
     bot: 'Fitur Ini Hanya Untuk Bot',
     wait: 'Tunggu Sebentar!',
     linkm: 'Dimana linknya?',
-    error: 'Error!!',
-    endLimit: 'Limut Harian Anda Telah Habis, Limit Akan Direset Setiap 12 Jam',
-    ban: 'Anda telah diblokir oleh Owner, jika Anda ingin diblokir, chat Owner.',
+    error: 'Gomenn Eror!!',
+    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap 12 Jam',
+    ban: 'Anda telah diblokir oleh Owner, jika Anda ingin Tidak diblokir, chat Owner.',
     nsfw: 'Fitur nsfw belum diaktifkan, silahkan Chat admin untuk Di Aktifkan!',
     banChat: 'Bot diblokir di grup ini, harap hubungi Owner untuk membatalkan pemblokiran'
 }
