@@ -63,7 +63,7 @@ global.location = "Indonesia, Jawatimur, Surabaya" //ur location
 //bot bomdy 
 global.owner = ['6288804947282']
 global.ownertag = '6288804947282' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.botname = 'GojoBot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
@@ -106,19 +106,19 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: 'Perintah Hanya Bisa Di Gunakan Oleh Admin!',
+    botAdmin: 'Bot Bukan Seorang Admin!',
+    owner: 'Perintah Hanya Bisa Di Gunakan Oleh Owner!',
+    group: 'Perintah Hanya Bisa Digunakan Di Grup!',
+    private: 'Perintah Hanya Bisa Digunakan Di Chat Pribadi!',
+    bot: 'Fitur Ini Hanya Untuk Bot',
+    wait: 'Tunggu Sebentar!',
+    linkm: 'Dimana linknya?',
     error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    endLimit: 'Limut Harian Anda Telah Kedaluwarsa, Limit Akan Direset Setiap 12 Jam',
+    ban: 'Anda telah diblokir oleh Owner, jika Anda ingin diblokir, chat Owner.',
+    nsfw: 'Fitur nsfw belum diaktifkan, silahkan Chat admin untuk Di Aktifkan!',
+    banChat: 'Bot diblokir di grup ini, harap hubungi Owner untuk membatalkan pemblokiran'
 }
     global.limitawal = {
     premium: "Infinity",
