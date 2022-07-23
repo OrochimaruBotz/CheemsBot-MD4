@@ -63,14 +63,14 @@ global.location = "Indonesia, Jawa timur, Surabaya" //ur location
 //bot bomdy 
 global.owner = ['6288804947282']
 global.ownertag = '6288804947282' //ur tag number
-global.botname = 'GojoBot' //ur bot name
+global.botname = 'YamatoBot' //ur bot name
 global.linkz = "https://chat.whatsapp.com/JnA1lCftLDJ6k1alO5lfIQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "🗿" //ur menu react emoji
-global.themeemoji = "🥶" //ur theme emoji
-global.packname = "GOJOBOT🥶🥶🥶 /n/n/n/n/n/n GOJOSATORU " //ur sticker watermark packname
-global.author = "DIBUAT OLEH ~ /n/n/n/n/nCREATOR BY" //ur sticker watermark author
+global.botscript = 'https://github.com/OrochimaruBotz/CheemsBot-MD4' //script link
+global.reactmoji = "🕒" //ur menu react emoji
+global.themeemoji = "📢" //ur theme emoji
+global.packname = "GOJOBOT🥶🥶🥶 /n/n GOJOSATORU " //ur sticker watermark packname
+global.author = "DIBUAT OLEH ~ /n/nCREATOR BY" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
