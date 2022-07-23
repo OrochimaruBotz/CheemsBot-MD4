@@ -69,8 +69,8 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/OrochimaruBotz/CheemsBot-MD4' //script link
 global.reactmoji = "🕒" //ur menu react emoji
 global.themeemoji = "📢" //ur theme emoji
-global.packname = "GOJOBOT🥶🥶🥶 /n/n GOJOSATORU " //ur sticker watermark packname
-global.author = "DIBUAT OLEH ~ /n/nCREATOR BY" //ur sticker watermark author
+global.packname = "YamatoBot " //ur sticker watermark packname
+global.author = "Creator By Yamato" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
