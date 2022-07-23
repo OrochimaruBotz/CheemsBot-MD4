@@ -58,7 +58,7 @@ global.vcardowner = ['6288804947282'] //ur owner number
 global.ownername = "GojoSatoru" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: OrochimaruBotz" //ur github or insta name
-global.location = "Indonesia, Jawatimur, Surabaya" //ur location
+global.location = "Indonesia, Jawa timur, Surabaya" //ur location
 
 //bot bomdy 
 global.owner = ['6288804947282']
@@ -69,8 +69,8 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🥶" //ur theme emoji
-global.packname = "GOJOBOT🥶🥶🥶 /n/n/n/n/n/n/n/n/n GOJOSATORU " //ur sticker watermark packname
-global.author = "DIBUAT OLEH ~ /n/n/n/n/n/n/nCREATOR BY" //ur sticker watermark author
+global.packname = "GOJOBOT🥶🥶🥶 /n/n/n/n/n/n GOJOSATORU " //ur sticker watermark packname
+global.author = "DIBUAT OLEH ~ /n/n/n/n/nCREATOR BY" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
